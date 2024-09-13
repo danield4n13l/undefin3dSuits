@@ -2,11 +2,10 @@
   "name": "undefin3dSuits",
   "version_number": "1.0.0",
   "website_url": "https://github.com/danield4n13l/undefin3dSuits",
-  "description": "This mod add new suits to the game for the gang",
+  "description": "This mod adds new suits to the game for the gang",
   "dependencies": [
-    "x753-More_Suits-1.4.1",
-    "ViViKo-MoreMaterials-1.0.1",
-    "BepInEx-BepInExPack-5.4.2100",
-    "Verity-TooManySuits-1.1.0"
+    "x753-More_Suits-1.4.3",
+    "ViViKo-MoreMaterials-1.3.2",
+    "BepInEx-BepInExPack-5.4.2100"
   ]
 }
